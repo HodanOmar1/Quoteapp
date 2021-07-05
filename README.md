@@ -76,3 +76,4 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
+# quoteapp
